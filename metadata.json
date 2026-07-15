@@ -1,0 +1,6 @@
+{
+  "name": "OdontoAgenda",
+  "description": "SaaS completo de agendamento automático para clínicas odontológicas com personalização de página pública e painel de controle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
